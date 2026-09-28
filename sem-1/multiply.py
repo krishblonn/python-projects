@@ -3,3 +3,4 @@ b = 7
 print(a * b)
 print("i like that")
 print("who are you")
+print("hello")
